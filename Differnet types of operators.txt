@@ -1,0 +1,7 @@
+Differnet types of operators
+1) Arithmetic Operator - It is used to perform mathematical calculations
+2)Assignment Operator - It is used to assign value to variable
+3) Comparison or relation Operator - it is used to perform comparions
+4) Logical Operator -It used to perform logical operations and include AND, OR, or NOT
+5) Bitwise Operator - it is used to shift bit from right or left side of number
+6) Identity Operator- is is used  to check if two values are located on the same part of the memory. Two variables that are equal do not imply that they are identical
